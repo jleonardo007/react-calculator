@@ -1,0 +1,13 @@
+const CHANGE_THEME = 'CHANGE_THEME'
+const CLEAR = 'CLEAR'
+const FORMULA = 'FORMULA'
+const CALCEXP = 'CALCEXP'
+const MAXDIGIT = 'MAXDIGIT'
+
+export default {
+    CHANGE_THEME,
+    CLEAR,
+    FORMULA,
+    CALCEXP,
+    MAXDIGIT
+}
